@@ -16,25 +16,22 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Metaversus" textStyles="text-center" />
+      <TypingText title="| About Dystopian" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
-        <span className="font-extrabold text-white">
-          madness of the metaverse
+        <span className="font-extrabold text-white">Dystopian </span>is a brand-new and engaging web3 game which gives players a special opportunity to learn programming languages 
+        while they play. The 
+       
+        <span className="font-extrabold text-white">{' '}
+        play-to-learn
         </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        aspect of Dystopian is designed to educate players in a fun and engaging way. 
+        The game offers a unique feature that allows players to make money while they play. As they complete missions, they earn rewards in the form of weapons or tools that they can use in the game. 
+       
+        which adds interest to your learning.{' '}
       </motion.p>
 
       <motion.img

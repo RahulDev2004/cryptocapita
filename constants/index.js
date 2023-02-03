@@ -2,69 +2,74 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Gameplay',
+    Desc: "The game features an online multiplayer action game where players complete missions to earn rewards."
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'Monetization',
+    Desc: "Players can trade their NFTs on the marketplace for tokens or sell them for cryptocurrency exchange."
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Education',
+    Desc: "The game offers an engaging and interactive way for players to learn programming languages."
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'NFT Technology',
+    Desc: "The rewards offered in the game are exclusive NFT weapons and tools."
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Multiplayer',
+    Desc: "Players can compete against each other in the game to earn the highest score and win the most rewards."
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Gamers who are looking for a unique and innovative gaming experience',
+  'Gamers who are looking for a way to earn money while playing',
+  'Gamers who are looking for a fun way to learn programming languages',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'P to E&L',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Dystopian offers a unique combination of learning and earning, allowing players to not only enjoy the gaming experience but also make money while playing.',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Monetization',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Unlike other games, Dystopian provides a unique opportunity for players to earn money while playing',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Unique Value Proposition: ',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Unique Value Proposition: Dystopian offers a unique combination of learning and earning opportunities through its online multiplayer action game. The ability to earn rewards through completing missions sets it apart from other games in the market.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'Growing Gaming Industry:',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'The gaming industry is constantly growing and evolving, with more and more people looking for new and engaging gaming experiences. Dystopians unique value proposition may appeal to this growing audience.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Strong IP Advantage:',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'The patent-pending algorithm that matches gamers with the right sponsors sets Dystopian apart from its competitors and provides a strong advantage in the market.',
   },
 ];
 
