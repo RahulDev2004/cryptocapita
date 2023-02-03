@@ -28,10 +28,11 @@ const Feedback = () => (
           </p>
         </div>
 
-        <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          Rahul B - Developer
-           pranshu jha - Developer
-           Sabari H - Developer
+        <p className="mt-[24px] font-normal sm:text-[22px] text-[16px] sm:leading-[45.6px] leading-[39.6px] text-white">
+           Rahul - Developer <br/>
+           pranshu jha - Developer <br/>
+           Sabari - Developer <br/>
+           Naveed - Research Analyst <br/>
                   </p>
                   <p className="mt-[24px] font-normal sm:text-[18px] text-[14px] sm:leading-[45.6px] leading-[39.6px] text-white">
                   The team behind Dystopian is comprised of experienced and dedicated professionals. 
