@@ -24,7 +24,7 @@ const Feedback = () => (
             Team Razor Code
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-            Founder Dystopian
+            Founder Fantopian
           </p>
         </div>
 
@@ -35,8 +35,8 @@ const Feedback = () => (
            Naveed - Research Analyst <br/>
                   </p>
                   <p className="mt-[24px] font-normal sm:text-[18px] text-[14px] sm:leading-[45.6px] leading-[39.6px] text-white">
-                  The team behind Dystopian is comprised of experienced and dedicated professionals. 
-                  The team's drive and passion for creating the best possible game is reflected in the success of Dystopian.
+                  The team behind Fantopian is comprised of experienced and dedicated professionals. 
+                  The team's drive and passion for creating the best possible game is reflected in the success of Fantopian.
                   If any of you are interested in joining the team, please contact us at.
                   </p>
       </motion.div>

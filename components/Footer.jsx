@@ -36,10 +36,10 @@ const Footer = () => (
 
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px] text-white">
-            DYSTOPIAN
+            FANTOPIAN
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © Maevrin. All rights reserved.
+            Copyright © RazorCode. All rights reserved.
           </p>
 
           <div className="flex gap-4">

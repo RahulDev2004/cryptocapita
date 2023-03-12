@@ -16,22 +16,20 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Dystopian" textStyles="text-center" />
+      <TypingText title="| About Fantopian" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Dystopian </span>is a brand-new and engaging web3 game which gives players a special opportunity to learn programming languages 
-        while they play. The 
+        <span className="font-extrabold text-white">Fantopian </span>Fantopian is a revolutionary web3 game that combines the thrill of gameplay with the exciting world of blockchain technology. 
        
         <span className="font-extrabold text-white">{' '}
-        play-to-learn
+        Play-to-Earn
         </span>{' '}
-        aspect of Dystopian is designed to educate players in a fun and engaging way. 
+        aspect of Fantopian is designed to make players Trade their own game assets in the form on NFTs. 
         The game offers a unique feature that allows players to make money while they play. As they complete missions, they earn rewards in the form of weapons or tools that they can use in the game. 
-       
-        which adds interest to your learning.{' '}
+       {' '}
       </motion.p>
 
       <motion.img
