@@ -21,22 +21,18 @@ const Feedback = () => (
         <div className="feedback-gradient" />
         <div>
         <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
-            Team Razor Code
+            Crypto capita
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-            Founder Fantopian
+            Founder Dystopian
           </p>
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[22px] text-[16px] sm:leading-[45.6px] leading-[39.6px] text-white">
-           Rahul - Developer <br/>
-           pranshu jha - Developer <br/>
-           Sabari - Developer <br/>
-           Naveed - Research Analyst <br/>
                   </p>
-                  <p className="mt-[24px] font-normal sm:text-[18px] text-[14px] sm:leading-[45.6px] leading-[39.6px] text-white">
-                  The team behind Fantopian is comprised of experienced and dedicated professionals. 
-                  The team's drive and passion for creating the best possible game is reflected in the success of Fantopian.
+                  <p className="mt-[24px] font-normal sm:text-[18px] text-[14px] text-justify sm:leading-[45.6px] leading-[39.6px] text-white">
+                  Crypto Capita is a blockchain-focused startup that created Dystopian. The company is dedicated to exploring and developing innovative applications of blockchain technology.
+                  The Crypto Capita team consists of experienced professionals in the blockchain and gaming industries.
                   If any of you are interested in joining the team, please contact us at.
                   </p>
       </motion.div>

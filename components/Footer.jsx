@@ -26,7 +26,7 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-            Downloads
+            <a href="https://discord.gg/svQ6nU6Z">Join the Discord</a>
           </span>
         </button>
       </div>
@@ -36,20 +36,22 @@ const Footer = () => (
 
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px] text-white">
-            FANTOPIAN
+            DYSTOPIAN
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © RazorCode. All rights reserved.
+            Copyright © cryptocapita. All rights reserved.
           </p>
 
           <div className="flex gap-4">
             {socials.map((social) => (
+              <a href={social.link}>
               <img
                 key={social.name}
                 src={social.url}
                 alt={social.name}
                 className="w-[24px] h-[24px] object-contain cursor-pointer"
               />
+              </a>
             ))}
           </div>
         </div>
