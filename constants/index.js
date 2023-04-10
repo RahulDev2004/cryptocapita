@@ -39,7 +39,7 @@ export const startingFeatures = [
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.webp',
+    imgUrl: '/vrpano.svg',
     title: 'Unique Feature',
     subtitle:
         'Dystopian offers a unique way in which player not olny trade weapons but also merge NFTs to get more powerful weapons.',
