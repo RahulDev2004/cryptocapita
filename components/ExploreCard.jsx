@@ -27,13 +27,13 @@ const ExploreCard = ({ id, imgUrl, title, Desc, index, active, handleClick }) =>
         <div
           className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}
         >
-          <img
+          {/* <img
             src="/headset.svg"
             alt="headset"
             className="w-1/2 h-1/2 object-contain"
-          />
+          /> */}
         </div>
-        <p className="font-normal text-justify text-[14px] leading-[20.16px] text-white uppercase">
+        <p className="font-normal text-justify text-[16px] leading-[20.16px] text-white uppercase">
           {Desc}
         </p>
         <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
