@@ -16,18 +16,18 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Dystopian" textStyles="text-center" />
+      <TypingText title="| About DBros" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Dystopian </span> is a revolutionary web3 game that combines the thrill of gameplay with the exciting world of blockchain technology. 
+        <span className="font-extrabold text-white">DBros </span> is a revolutionary web3 game that combines the thrill of gameplay with the exciting world of blockchain technology. 
        
         <span className="font-extrabold text-white">{' '}
         Play-to-Earn
         </span>{' '}
-        aspect of Dystopian is designed to make players Trade their own game assets in the form on NFTs. 
+        aspect of DBros is designed to make players Trade their own game assets in the form on NFTs. 
         The game offers a unique feature that allows players to make money while they play. As they complete missions, they earn rewards in the form of weapons or tools that they can use in the game. 
        {' '}
       </motion.p>

@@ -24,14 +24,14 @@ const Feedback = () => (
             Crypto capita
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-            Founder Dystopian
+            Founder DBros
           </p>
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[22px] text-[16px] sm:leading-[45.6px] leading-[39.6px] text-white">
                   </p>
                   <p className="mt-[24px] font-normal sm:text-[18px] text-[14px] text-justify sm:leading-[45.6px] leading-[39.6px] text-white">
-                  Crypto Capita is a blockchain-focused startup that created Dystopian. The company is dedicated to exploring and developing innovative applications of blockchain technology.
+                  Crypto Capita is a blockchain-focused startup that created DBros. The company is dedicated to exploring and developing innovative applications of blockchain technology.
                   The Crypto Capita team consists of experienced professionals in the blockchain and gaming industries.
                   If any of you are interested in joining the team, please contact us at.
                   </p>

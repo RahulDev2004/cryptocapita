@@ -24,7 +24,7 @@ const Hero = () => (
         >
           <h1 className={styles.heroHeading}></h1>
           <div className={styles.heroDText} />
-          <h1 className={styles.heroHeading}>YSTOPIAN</h1>
+          <h1 className={styles.heroHeading}>BROS</h1>
         </motion.div>
       </div>
 
